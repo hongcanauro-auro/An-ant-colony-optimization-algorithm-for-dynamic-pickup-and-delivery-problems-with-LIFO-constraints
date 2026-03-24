@@ -1,0 +1,2 @@
+# An-ant-colony-optimization-algorithm-for-dynamic-pickup-and-delivery-problems-with-LIFO-constraints
+This repository implements an ant colony optimization framework for DPDP problems with LIFO constraints. I encode feasible routes as binary trees, enabling constraint satisfaction during construction. A dual‑level pheromone structure guides order allocation and node transitions. Four local search operators embedded in tabu search refine solutions. 
