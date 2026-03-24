@@ -1,4 +1,4 @@
-ACO-Multiway: Ant Colony Optimization for Dynamic Pickup and Delivery with LIFO Constraints
+# ACO-Multiway: Ant Colony Optimization for Dynamic Pickup and Delivery with LIFO Constraints.
 We present an ant colony optimization framework for dynamic pickup and delivery problems (DPDPs) under capacity, time‑window, dock, and last‑in‑first‑out (LIFO) loading constraints. A distinctive feature of this work is the encoding of LIFO‑compliant routes as multiway trees. This representation shifts the constraint‑handling burden from post‑hoc feasibility checking to the construction process itself, allowing the ant colony to explore the solution space without generating infeasible candidates.
 
 Core Idea
